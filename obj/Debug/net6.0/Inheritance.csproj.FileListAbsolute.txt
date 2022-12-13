@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
