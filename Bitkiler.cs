@@ -29,6 +29,7 @@ namespace Inheritance
         {
             Console.WriteLine("Tohumlu bitkiler tohumla çoğalir.");
         }
+
     }
 
      public class TohumsuzBitkiler:Bitkiler
